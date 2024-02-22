@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897926330915",
+    "project_id": "khyaalapp",
+    "storage_bucket": "khyaalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897926330915:android:47cdf39a16f056990d0f96",
+        "android_client_info": {
+          "package_name": "com.example.khyaalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCxSDwZrjoH8VejaJBwqMCSb-jDALw6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
